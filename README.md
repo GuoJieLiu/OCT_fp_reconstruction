@@ -1,5 +1,7 @@
 # OCT_fp_reconstruction
 
+## **NEWLY UPDATE ON NOV. 12. 2019**
+
 ## Brief introduction
 Optical Coherence Tomography (OCT) is a new fingerprint acquisition technology. 
 Since 2006, many researches have begun to use OCT technology for fingerprint anti-spoofing ans reconstruction.
