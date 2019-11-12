@@ -13,7 +13,7 @@ The OCT acquisition device we used here will collect 400 cross-sectional images 
 ![](./idea.png)
 
 ## Reconstruction algorithm
-This project proposes a more efficient and simple projection-based OCT fingerprint reconstruction method.
+This project proposes a simple but more efficient projection-based OCT fingerprint reconstruction method.
 Our goal is to reconstruct the fingerprint information of the corresponding area according to the physical skin structure.
 As can be seen from the figure, for cross-sectional image, according to the trend of the Aline curve, the coordinates of the corresponding physical skin structure area are found, and finally the fingerprint image is reconstructed by the corresponding coordinates of the projection.
 
