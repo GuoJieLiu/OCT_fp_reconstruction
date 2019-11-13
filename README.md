@@ -21,7 +21,7 @@ As can be seen from the figure, for cross-sectional image, according to the tren
 
 **The overall process can be summarized into the following steps**
 * Image processing for the cross-sectional image.
-* The signal proccessin performs on Aline.
+* The signal proccessing performs on Aline.
 * Physical skin structure area detection. 
 * Projection-based reconstruction.
 
