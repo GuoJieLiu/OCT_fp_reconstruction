@@ -33,6 +33,8 @@ This part of the experiment mainly tested fingerprints from 5 fingers in normal 
 -|-|-|-|-
 EER | 13.5 | 4.1 | 13.6 | 28.1
 
+**It can be seen from the results that the use of OCT-based fingerprints have better matching results while faceing in case of low quality and artificial fingerprint matching. This also shows that using this reconstruction method can make the fingerprint identification system have better robustness and security.**
+
 ##### Related reference
 > [1]  M. A. Medina-Pérez, O. Loyola-González, A. E. Gutierrez-Rodríguez, M. García-Borroto, L. Altamirano-Robles, Introducing an experimental framework in c# for ﬁngerprint recognition, in: Mexican Conference on Pattern Recognition, Springer, 2014, pp. 132–141. 
 
