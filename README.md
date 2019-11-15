@@ -25,6 +25,17 @@ As can be seen from the figure, for cross-sectional image, according to the tren
 * Physical skin structure area detection. 
 * Projection-based reconstruction.
 
+## Brief result preview
+We organized matching experiments on reconstruct fingerprints and traditional 2D fingerprints using the open source fingerprint matching framework with PN matcher [1]. 
+This part of the experiment mainly tested fingerprints from 5 fingers in normal situations, low-quality (_i.e._ wet, dry and dirty) images in 2 sessions(_i.e._ 40 images), and 20 images corresponding to 5 finger artificial fingerprints. The EER is calculated by the pairwise matching results, and the results are shown in follwing table.
+
+-| Epidermis |  Internal | Reticular | Traditional 2D 
+-|-|-|-|-
+EER | 13.5 | 4.1 | 13.6 | 28.1
+
+##### Related reference
+[1]  M. A. Medina-Pérez, O. Loyola-González, A. E. Gutierrez-Rodríguez, M. García-Borroto, L. Altamirano-Robles, Introducing an experimental framework in c# for ﬁngerprint recognition, in: Mexican Conference on Pattern Recognition, Springer, 2014, pp. 132–141
+
 ## Notes
 **The key codes of the image processing, Aline signal proccessing and reconstruction wiil upload soon.**
 
