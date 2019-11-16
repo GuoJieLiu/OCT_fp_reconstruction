@@ -31,7 +31,8 @@ The motivation of reconstructing subsurface fingerprints is to generate a robust
 This part of the experiment mainly tested fingerprints from 5 fingers in normal situations, low-quality (_i.e._ wet, dry and dirty) images in 2 sessions(_i.e._ 40 images), and 20 images corresponding to 5 finger artificial fingerprints. The EER is calculated by the pairwise matching results, and the results are shown in follwing table.
 
 **Table. The EERs for matching different fingerprints by PN matcher.**
--| Epidermis Fingerprint |  Internal Fingerprint | Reticular Fingerprint | Traditional 2D surface Fingerprint 
+
+-| Epidermis Fingerprint | Internal Fingerprint | Reticular Fingerprint | Traditional 2D surface Fingerprint 
 -|-|-|-|-
 EER | 13.5 | 4.1 | 13.6 | 28.1
 
