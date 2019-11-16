@@ -42,7 +42,7 @@ EER | 13.5 | 4.1 | 13.6 | 28.1
 > [1]  M. A. Medina-Pérez, O. Loyola-González, A. E. Gutierrez-Rodríguez, M. García-Borroto, L. Altamirano-Robles, Introducing an experimental framework in c# for ﬁngerprint recognition, in: Mexican Conference on Pattern Recognition, Springer, 2014, pp. 132–141. 
 
 ## Notes
-**The key codes of the image processing, Aline signal proccessing and reconstruction wiil upload soon.**
+**The key codes of the image processing, Aline signal proccessing and reconstruction will upload soon.**
 
 ## Contributor & Contact information
 **Guojie Liu**: 1800271034@email.szu.edu.cn. Attribution: College of Computer Science and Software Engineering, Shenzhen University, Shenzhen 518060, China.
