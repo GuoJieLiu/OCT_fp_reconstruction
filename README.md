@@ -34,7 +34,7 @@ This part of the experiment mainly tested fingerprints from 5 fingers in normal 
 
 -| Epidermis Fingerprint | Internal Fingerprint | Reticular Fingerprint | Traditional 2D surface Fingerprint 
 -|-|-|-|-
-EER | 13.5 | 4.1 | 13.6 | 28.1
+EER(%) | 13.5 | 4.1 | 13.6 | 28.1
 
 **It can be seen from the recognition results by matching reconstructed subsurface fingerprints are better than by matching traditional 2D surface fingerprints, which demonstrates the effectiveness of our reconstructed subsurface fingerprints.**
 
