@@ -22,7 +22,7 @@ As can be seen from the figure, for cross-sectional image, according to the tren
 
 **The overall process can be summarized into the following steps**
 * Image processing for the cross-sectional image.
-* The signal proccessing performs on Aline.
+* Signal processing performs on A-line.
 * Physical skin structure area detection. 
 * Projection-based reconstruction.
 
@@ -36,7 +36,7 @@ This part of the experiment mainly tested fingerprints from 5 fingers in normal 
 -|-|-|-|-
 EER | 13.5 | 4.1 | 13.6 | 28.1
 
-**It can be seen from the results that the recognition performance by matching reconstructed subsurface fingerprints are better than that of matching traditional 2D surface fingerprints, which demonstrates the effectiveness of our reconstructed subsurface fingerprints.**
+**It can be seen from the recognition results by matching reconstructed subsurface fingerprints are better than by matching traditional 2D surface fingerprints, which demonstrates the effectiveness of our reconstructed subsurface fingerprints.**
 
 ##### Related reference
 > [1]  M. A. Medina-Pérez, O. Loyola-González, A. E. Gutierrez-Rodríguez, M. García-Borroto, L. Altamirano-Robles, Introducing an experimental framework in c# for ﬁngerprint recognition, in: Mexican Conference on Pattern Recognition, Springer, 2014, pp. 132–141. 
