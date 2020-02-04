@@ -1,6 +1,5 @@
 # OCT_fp_reconstruction
 
-## **NEWLY UPDATE ON NOV. 12. 2019**
 
 ## Brief introduction
 Optical Coherence Tomography (OCT) is a new fingerprint acquisition technology. 
@@ -32,7 +31,7 @@ This part of the experiment mainly tested fingerprints from 5 fingers in normal 
 
 **Table. The EERs for matching different fingerprints by PN matcher.**
 
--| Epidermis Fingerprint | Internal Fingerprint | Reticular Fingerprint | Traditional 2D surface Fingerprint 
+-| Corneum Fingerprint | Internal Fingerprint | Papillary Fingerprint | Traditional 2D surface Fingerprint 
 -|-|-|-|-
 EER(%) | 13.5 | 4.1 | 13.6 | 28.1
 
