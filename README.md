@@ -11,7 +11,7 @@ Therefore, reconstruct the fingerprint from the collecting OCT data is one of th
 
 The OCT acquisition device we used here will collect 400 cross-sectional images for each fingerprint acquisition as shown in the figure below. Each cross-sectional image is composed of multiple Alines. The figure show that each Aline can reflect the information of the subcutaneous structure of the finger skin. More detail of OCT device can click [HERE](https://github.com/CV-SZU/A-Benchmark-Database-using-Optical-Coherence-Tomography-for-Fingerprints).
 
-![](./idea.png)
+![](./fp-idea.png)
 **Fig. Overview of the proposed reconstruction method**
 
 ## Reconstruction algorithm
